@@ -1,0 +1,21 @@
+/* :root {
+  color-scheme: light dark;
+  color: #fff !important;
+  background-color: #060606;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #060606;
+  color: white;
+}
+
+
+/* 
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #ffffff;
+    background-color: #ffffff;
+  }
+} */
